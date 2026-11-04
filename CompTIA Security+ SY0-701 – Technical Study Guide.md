@@ -46,8 +46,7 @@ CompTIA Security+ SY0-701 Certification Exam: Exam Objectives, Version 5.0, espe
 
 # PARTIE I — Security foundations and core principles
 
-> **Scope:** Security foundations and core principles.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Core security principles and organizational foundations: confidentiality, integrity, availability, authentication, authorization, accounting, non-repudiation, security-control categories and functions, Zero Trust fundamentals, physical security principles, deception technologies, change management, and security accountability. Focus on the purpose of security controls and how foundational principles guide enterprise security decisions.
 
 ## 1. Security model: what are we protecting?
 
@@ -139,8 +138,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE II — Access control models and permissions
 
-> **Scope:** Access control models and permissions.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Authorization and permission-management mechanisms: subjects, objects, access rights, discretionary, mandatory, role-based and attribute-based access control, rule-based access, access control lists, file permissions, group policies, privileged access, least privilege, and access reviews. Focus on how access decisions are defined, assigned, enforced, and periodically reassessed.
 
 ## 1. Access-control decision model
 
@@ -235,8 +233,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE III — Authentication, identity protocols and federation
 
-> **Scope:** Authentication, identity protocols and federation.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Identity verification and authentication technologies: authentication factors, multifactor authentication, biometrics, authentication protocols, directory services, Kerberos, RADIUS, TACACS+, LDAP, EAP, federation, single sign-on, SAML, OAuth, and OpenID Connect. Focus on how identities are verified, credentials are exchanged, authentication is centralized, and trust is established across systems and organizations.
 
 ## 1. Authentication factors and assurance
 
@@ -335,8 +332,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE IV — Symmetric encryption, hashes and cryptographic modes
 
-> **Scope:** Symmetric encryption, hashes and cryptographic modes.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Symmetric cryptography and cryptographic integrity mechanisms: block and stream ciphers, AES, DES, 3DES, cipher modes, initialization vectors, nonces, hashing algorithms, HMAC, salting, password hashing, key stretching, and key derivation. Focus on cryptographic properties, key and nonce requirements, algorithm selection, and common implementation weaknesses.
 
 ## 1. Symmetric cryptography
 
@@ -429,8 +425,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE V — Asymmetric cryptography, certificates and PKI
 
-> **Scope:** Asymmetric cryptography, certificates and PKI.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Public-key cryptography and digital trust infrastructure: asymmetric key pairs, RSA, ECC, digital signatures, key exchange, public key infrastructure, certificate authorities, certificate chains, certificate validation, revocation mechanisms, key escrow, hardware security modules, trusted platform modules, and certificate lifecycle management. Focus on identity binding, authenticity, integrity, confidentiality, and trust establishment.
 
 ## 1. Public-key cryptography: two different jobs
 
@@ -541,8 +536,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE VI — Network architecture, addressing and infrastructure
 
-> **Scope:** Network architecture, addressing and infrastructure.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Network architecture and infrastructure fundamentals: network topologies, addressing, subnetting, routing, switching, network segmentation, security zones, VLANs, DMZs, network isolation, network appliances, and infrastructure placement. Focus on how network design determines traffic flow, connectivity, exposure, segmentation boundaries, and the overall attack surface.
 
 ## 1. Network architecture and segmentation
 
@@ -645,8 +639,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE VII — Network services, application protocols and messaging
 
-> **Scope:** Network services, application protocols and messaging.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Network service and application-layer communication protocols: DNS, DHCP, HTTP, HTTPS, SMTP, IMAP, POP3, FTP, SFTP, SSH, SNMP, NTP, LDAP, SIP, and related messaging and service-discovery technologies. Focus on protocol purpose, communication behavior, common ports and transports, security weaknesses, and the consequences of insecure service configuration.
 
 ## 1. Application protocols and their security properties
 
@@ -749,8 +742,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE VIII — Secure communications, remote access and wireless
 
-> **Scope:** Secure communications, remote access and wireless.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Secure network communication and wireless access technologies: TLS, IPsec, VPN architectures, tunneling, remote-access solutions, secure wireless configurations, WPA2/WPA3, enterprise wireless authentication, 802.1X, wireless monitoring, Bluetooth, NFC, and RFID security considerations. Focus on protecting data in transit, authenticating network access, and reducing exposure across wired, wireless, and remote connections.
 
 ## 1. Secure transport: TLS, IPsec, and legacy protocols
 
@@ -845,8 +837,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE IX — Threat actors, threat intelligence and reconnaissance
 
-> **Scope:** Threat actors, threat intelligence and reconnaissance.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Adversary profiling and intelligence-driven security: threat-actor categories, motivations, resources, capabilities, reconnaissance, OSINT, attack attribution limitations, indicators of compromise, tactics, techniques and procedures, threat-intelligence sources, and structured intelligence-sharing frameworks. Focus on understanding adversary behavior and translating intelligence into defensive priorities.
 
 ## 1. Threat actors: capability, motivation, and resources
 
@@ -918,8 +909,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE X — Vulnerabilities, malware and exploit mitigation
 
-> **Scope:** Vulnerabilities, malware and exploit mitigation.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Vulnerability analysis and system-level risk reduction: software, operating-system, hardware, firmware, cloud, mobile, virtualization, and supply-chain weaknesses; vulnerability scanning; CVE and CVSS; malware classifications; exploitability; patch management; secure configuration; hardening; and mitigation techniques. Focus on identifying weaknesses, assessing their severity, prioritizing remediation, and verifying that corrective controls are effective.
 
 ## 1. Vulnerability management lifecycle
 
@@ -1003,8 +993,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE XI — Attack techniques and application-layer attacks
 
-> **Scope:** Attack techniques and application-layer attacks.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Attack methods, exploitation techniques, and malicious-activity indicators: denial-of-service, DDoS, DNS attacks, credential attacks, replay attacks, privilege escalation, injection, SQL injection, cross-site scripting, directory traversal, buffer overflow exploitation, race conditions, and suspicious system or network behavior. Focus on understanding attack execution, identifying observable indicators, and connecting each technique to its potential security impact.
 
 ## 1. Denial of Service and resource exhaustion
 
@@ -1079,8 +1068,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE XII — Security monitoring, detection and defensive platforms
 
-> **Scope:** Security monitoring, detection and defensive platforms.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Security monitoring and enterprise detection capabilities: IDS, IPS, SIEM, SOAR, EDR, XDR, NDR, DLP, CASB, SOC operations, security telemetry, log collection, event correlation, alert prioritization, automated response, and managed security services. Focus on how security technologies collect evidence, identify suspicious activity, generate alerts, and support defensive operations.
 
 ## 1. Detection architecture: IDS, IPS, HIDS, NIDS
 
@@ -1165,8 +1153,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE XIII — Incident response, investigation and threat data exchange
 
-> **Scope:** Incident response, investigation and threat data exchange.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Incident response and digital investigation: incident identification, preparation, triage, containment, eradication, recovery, lessons learned, evidence acquisition, chain of custody, forensic analysis, event documentation, response-team coordination, and structured threat-information exchange. Focus on preserving evidence integrity while making timely operational decisions throughout the incident lifecycle.
 
 ## 1. Incident response lifecycle
 
@@ -1237,8 +1224,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE XIV — Cloud services, cloud security and service models
 
-> **Scope:** Cloud services, cloud security and service models.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Cloud computing architecture and security responsibilities: IaaS, PaaS, SaaS, public, private, hybrid and multi-cloud deployments, shared responsibility, cloud-native services, serverless computing, containers, cloud identity, storage security, network controls, cloud monitoring, and infrastructure as code. Focus on responsibility boundaries, cloud-specific attack surfaces, configuration risks, and the security implications of different deployment models.
 
 ## 1. Cloud service models and responsibility
 
@@ -1319,8 +1305,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE XV — Systems architecture, virtualization and industrial technology
 
-> **Scope:** Systems architecture, virtualization and industrial technology.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Enterprise computing and specialized system architectures: virtualization, hypervisors, virtual machines, containers, embedded systems, firmware, real-time operating systems, ICS, SCADA, industrial networks, hardware security components, high availability, and platform resilience. Focus on isolation boundaries, resource sharing, legacy constraints, operational availability, and the security consequences of running critical or specialized workloads.
 
 ## 1. Enterprise architecture and resilience
 
@@ -1418,8 +1403,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE XVI — Endpoint, mobile, wireless and physical security
 
-> **Scope:** Endpoint, mobile, wireless and physical security.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Protection of endpoints, mobile devices, and physical assets: workstation and server hardening, mobile device management, BYOD, COPE, CYOD, wireless device deployment, removable media, Bluetooth and NFC exposure, hardware interfaces, physical access controls, surveillance, and device-loss protection. Focus on securing devices throughout deployment, use, maintenance, and retirement.
 
 ## 1. Endpoint and mobile device management
 
@@ -1491,8 +1475,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE XVII — Data protection, privacy and information handling
 
-> **Scope:** Data protection, privacy and information handling.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Data security throughout its lifecycle: data classification, sensitivity levels, PII, PHI, regulated information, intellectual property, data sovereignty, data residency, data at rest, data in transit, data in use, encryption, hashing, masking, tokenization, DLP, retention, secure deletion, and media sanitization. Focus on selecting protection mechanisms according to data sensitivity, location, state, access requirements, and regulatory obligations.
 
 ## 1. Data classification and lifecycle
 
@@ -1570,8 +1553,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE XVIII — Risk, governance, compliance and business continuity
 
-> **Scope:** Risk, governance, compliance and business continuity.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Security governance and organizational risk management: policies, standards, procedures, risk identification and assessment, qualitative and quantitative analysis, risk treatment, business impact analysis, compliance, audits, third-party risk, vendor management, business continuity, disaster recovery, recovery objectives, and security-program oversight. Focus on how organizations manage risk, demonstrate compliance, assign accountability, and maintain critical operations.
 
 ## 1. Risk assessment and quantitative analysis
 
@@ -1675,8 +1657,7 @@ The following entries are from the CompTIA appendix. Duplicate abbreviations are
 
 # PARTIE XIX — Software development, application components and cross-domain terms
 
-> **Scope:** Software development, application components and cross-domain terms.
-> **Source boundary:** Official acronym spellings and expansions below are transcribed from the user-provided CompTIA Security+ SY0-701 Exam Objectives, Version 5.0, acronym appendix (PDF pp. 17–20). Technical explanations, supplementary concepts, and reference links are study enrichment, not verbatim CompTIA text.
+> **Scope:** Secure software engineering and application security: software development lifecycle, secure coding, source-code analysis, dynamic testing, application testing, input validation, APIs, application components, dependencies, software supply-chain security, code signing, deployment integrity, and secure development practices. Focus on preventing, detecting, and correcting software weaknesses throughout development, integration, deployment, and maintenance.
 
 ## 1. Secure SDLC and security testing
 
