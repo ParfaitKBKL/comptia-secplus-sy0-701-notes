@@ -1,4 +1,4 @@
-# CompTIA Security+ SY0-701 — 19 Thematic Parts (Improved Technical Edition)
+# CompTIA Security+ SY0-701 – Technical Study Guide.md
 
 This edition keeps the same 19 thematic groups and the official CompTIA acronym appendix as its coverage baseline. It replaces generic acronym paraphrases with exam-oriented technical explanations, comparisons, attack/defense mechanisms, scenario cues, and technical references.
 
