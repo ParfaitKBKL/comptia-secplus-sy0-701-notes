@@ -48,6 +48,8 @@ CompTIA Security+ SY0-701 Certification Exam: Exam Objectives, Version 5.0, espe
 
 > **Scope:** Core security principles and organizational foundations: confidentiality, integrity, availability, authentication, authorization, accounting, non-repudiation, security-control categories and functions, Zero Trust fundamentals, physical security principles, deception technologies, change management, and security accountability. Focus on the purpose of security controls and how foundational principles guide enterprise security decisions.
 
+
+
 ## 1. Security model: what are we protecting?
 
 Security controls should be selected against a defined security objective. The CIA triad is not a product or a control family; it is a way to classify the impact of an event.
