@@ -465,11 +465,13 @@ An **HSM** is tamper-resistant hardware for generating, storing, and using crypt
 ## Exam traps
 
 - Public-key encryption for recipient confidentiality vs private-key signing for sender authenticity/integrity.
-- DH/ECDH establishes a shared secret; it does not authenticate without an additional mechanism.
-- ECDSA/DSA sign; ECDHE/DHE exchange keys.
-- CA issues/signs; RA validates/approves; CSR requests a certificate.
-- CRL is a list; OCSP is an online status query.
+- ECDSA/DSA sign; ECDHE/DHE establishes a shared secret (it does not authenticate without an additional mechanism).
+- CA vs RA: the RA verifies identity; the CA issues the certificate; CSR requests a certificate.
+- CRL vs OCSP: a list of revoked certificates versus an online status query.
+- PKCS vs P12: PKCS is the standards family; PKCS #12 is one member of that family.
+- P12 vs PEM: a cryptographic package/container versus a text-based encoding.
 - Certificate contains public key, not private key; SAN identifies valid hostnames.
+- PGP vs GPG: PGP is the cryptographic system/product family; GPG is an open-source implementation.
 
 ## Supplementary concepts
 
